@@ -99,4 +99,4 @@ This project presents a comparative analysis between two state-of-the-art genera
 - Final PDF Report: [`cogs185_project.pdf`](./cogs185_project.pdf)
 - Generated Images:
   - [CelebA Samples](https://drive.google.com/drive/u/0/folders/1OefCAcaPU6-Xk801LSuJufcC-z35mKEN)
-  - [CIFAR-10 Samples](https://drive.google.com/drive/folders/14NPmN7N3uE2pq3ehhg1wJODlvvt6JuO?usp=sharing)
+  - [CIFAR-10 Samples](https://drive.google.com/drive/folders/14NPmN7N3_uE2pq3ehhg1wJODlvvt6JuO?usp=sharing)
